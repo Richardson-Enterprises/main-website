@@ -1,0 +1,132 @@
+head {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    background-attachment: fixed;
+    background-image: url(../images/background.png);
+    background-position: center top;
+    background-color: rgb(35, 35, 35);
+    background-size: 100%;
+}
+
+#main_header {
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.main_header {
+    margin: 0;
+    width: 100%;
+}
+
+#main_page_link {
+    position: absolute;
+    top: 5vw;
+    right: 0vw;
+    background-color: rgba(0, 0, 0, 0.0);
+    padding: 20vw;
+    padding-left: 100vw;
+}
+
+h1 {
+    margin: 0;
+    margin-top: 1%;
+    font: 600 4vw Impact;
+    color: rgb(80, 80, 80);
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(150, 150, 150);
+}
+
+p {
+    color: rgb(150, 150, 150);
+    font: 700 5vw normal;
+    font-family: "Pinyon Script";
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    margin: 0;
+    color: rgb(100, 100, 100);
+}
+
+.fade {
+    margin: 0;
+}
+
+#nav1 {
+    top: 1vw;
+    left: 2vw;
+    text-decoration: none;
+    color: rgb(150, 150, 150);
+    font: 700 3vw normal;
+    font-family: "Pinyon Script";
+    position: absolute;
+}
+
+#link1 {
+    margin: 0;
+}
+
+#nav2 {
+    top: 1vw;
+    left: 25vw;
+    text-decoration: none;
+    color: rgb(150, 150, 150);
+    font: 700 3vw normal;
+    font-family: "Pinyon Script";
+    position: absolute;
+}
+
+#link2 {
+    margin: 0;
+}
+
+#nav3 {
+    top: 1vw;
+    left: 54vw;
+    text-decoration: none;
+    color: rgb(150, 150, 150);
+    font: 700 3vw normal;
+    font-family: "Pinyon Script";
+    position: absolute;
+}
+
+#link3 {
+    margin: 0;
+}
+
+#nav4 {
+    top: 1vw;
+    left: 74vw;
+    text-decoration: none;
+    color: rgb(150, 150, 150);
+    font: 700 3vw normal;
+    font-family: "Pinyon Script";
+    position: absolute;
+}
+
+#link4 {
+    margin: 0;
+}
+
+#bottom {
+    margin: 50vw;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#top_box {
+    position: absolute;
+    top: 0vw;
+    right: 0vw;
+    background-color: rgba(0, 0, 0, 0.514);
+    padding: 2.5vw;
+    padding-left: 100vw;
+}
